@@ -35,6 +35,6 @@ I believe in learning concepts deeply rather than just memorizing code.
 ---
 
 ### 📫 Connect With Me
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME<!--
+- GitHub: https://github.com/korwarpreetam-cloud<!--
 **korwarpreetam-cloud/korwarpreetam-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

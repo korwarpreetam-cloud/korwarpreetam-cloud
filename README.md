@@ -1,20 +1,33 @@
-## Hi there 👋
+## 👋 Hi there, I'm Preetam!
 
-# Hi there 👋 I'm Preetam
+🚀 *Aspiring Full Stack Developer | Exploring Machine Learning*
+
+---
 
 ## 🚀 About Me
 - 🌱 Currently learning **React & Frontend Development**
 - 💡 Strengthening my **JavaScript fundamentals**
 - 🐍 Practicing **Python & Data Structures**
+- 🤖 Developing a strong interest in **Machine Learning & AI**
+- 📊 Exploring **data analysis & real-world datasets**
 - 🏆 Participating in coding contests to improve problem-solving
-- 🎯 Goal: Become a strong Full Stack Developer
+- 🎯 Goal: Become a **Full Stack Developer with ML expertise**
 
+---
+
+## 🧠 Current Learning Journey
+
+text
+Frontend Dev      █████████░░░░░░  (Intermediate)
+JavaScript        ████████░░░░░░░  (Async JS Focus)
+DSA               ███████░░░░░░░░  (Daily Practice)
+Machine Learning  ███░░░░░░░░░░░  (Beginner 🚀)
 ---
 
 ## 🛠 Tech Stack
 - 💻 Languages: JavaScript, Python
 - ⚛️ Frontend: React, HTML, CSS
-- 🔧 Tools: Git, GitHub, VS Code
+- 🔧 Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
@@ -22,6 +35,10 @@
 - Improving my understanding of Promises & Async JS
 - Building small React projects
 - Solving DSA problems daily
+- Starting with Machine Learning
+    Learning NumPy & Pandas
+    Working on datasets
+   Planning ML mini-projects
 
 ---
 

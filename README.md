@@ -15,14 +15,8 @@
 
 ---
 
-## 🧠 Current Learning Journey
 
-text
-Frontend Dev      █████████░░░░░░  (Intermediate)
-JavaScript        ████████░░░░░░░  (Async JS Focus)
-DSA               ███████░░░░░░░░  (Daily Practice)
-Machine Learning  ███░░░░░░░░░░░  (Beginner 🚀)
----
+
 
 ## 🛠 Tech Stack
 - 💻 Languages: JavaScript, Python
